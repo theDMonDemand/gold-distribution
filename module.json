@@ -9,7 +9,7 @@
     "verified": "13"
   },
   "scripts": ["listener.js"],
-  "url": "https://github.com/YOUR_USERNAME/gold-distribution",
-  "manifest": "https://YOUR_USERNAME.github.io/gold-distribution/module.json",
-  "download": "https://github.com/YOUR_USERNAME/gold-distribution/archive/refs/heads/main.zip"
+  "url": "https://thedmondemand.github.io/gold-distribution/",
+  "manifest": "https://thedmondemand.github.io/gold-distribution/module.json",
+  "download": "https://thedmondemand.github.io/gold-distribution/archive/refs/heads/main.zip"
 }
