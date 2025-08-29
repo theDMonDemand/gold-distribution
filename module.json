@@ -1,0 +1,15 @@
+{
+  "id": "gold-distribution",
+  "title": "Gold Distribution Listener",
+  "description": "Enables floating text for gold rewards across all clients.",
+  "version": "1.0.0",
+  "author": "Brendan & Copilot",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "13"
+  },
+  "scripts": ["listener.js"],
+  "url": "https://github.com/YOUR_USERNAME/gold-distribution",
+  "manifest": "https://YOUR_USERNAME.github.io/gold-distribution/module.json",
+  "download": "https://github.com/YOUR_USERNAME/gold-distribution/archive/refs/heads/main.zip"
+}
