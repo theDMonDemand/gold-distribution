@@ -10,6 +10,5 @@
   },
   "scripts": ["listener.js"],
   "url": "https://thedmondemand.github.io/gold-distribution/",
-  "manifest": "https://thedmondemand.github.io/gold-distribution/module.json",
-  "download": "https://thedmondemand.github.io/gold-distribution/archive/refs/heads/main.zip"
+  "manifest": "https://thedmondemand.github.io/gold-distribution/module.json"
 }
